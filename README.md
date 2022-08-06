@@ -10,3 +10,5 @@ If you can't deploy, and it says "We couldn't deploy your app because the source
 
 ## Get Password
 `More` -> `View logs` -> You will see your password, if it is scrolled to the top and out of view, click `Restart all dynos` then the log will be redisplayed.
+
+测试
